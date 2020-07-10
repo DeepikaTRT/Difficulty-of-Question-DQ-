@@ -1,0 +1,3 @@
+module ExamlyProject {
+	exports difficultyOfQuestion;
+}
